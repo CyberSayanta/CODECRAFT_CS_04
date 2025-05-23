@@ -33,7 +33,7 @@ The log is saved periodically to a file (e.g., keylog.txt).
 
 ⚙️ Setup Instructions
 1. Clone the repository:
-   git clone https://github.com/your-username/simple-keylogger.git
+   https://github.com/CyberSayanta/CODECRAFT_CS_04.git
 2. Navigate to the project directory and build the application.
 3. Run the program only in an environment you have permission to log keystrokes.
 
